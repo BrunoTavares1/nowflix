@@ -36,6 +36,7 @@
                 <element inactive_on_update="false" label="Episode" sequence="0" value="episode"/>
             </choice>
         </element>
+        <element label="Integration Error Message" max_length="1000" name="integration_error_message" type="string"/>
         <element label="Release date" max_length="40" name="release_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
     </element>
