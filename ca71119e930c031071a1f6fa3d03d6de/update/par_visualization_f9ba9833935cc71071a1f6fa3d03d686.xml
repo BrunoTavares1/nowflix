@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="Horizontal bar">85855283b7e03010097cb81cde11a91d</macroponent>
+        <name>Filmes com mais Reviews aprovadas</name>
+        <properties>{"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","chartVariation":"stacked","yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"showClosestSeriesOnHover":true,"xAxisTruncationType":"end","yAxisStyle":"clean","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"colorConfig":{"type":"default"},"yAxisHidden":false,"xAxisHidden":false,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Review","sourceType":"table","tableOrViewName":"x_1845605_nowflix_review","filterQuery":"state=3^media.type=movie","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE4NDU2MDVfbm93ZmxpeF9yZXZpZXcxNzc2OTYyOTU3ODE4","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":true,"showLoadingIndicator":false,"showHeaderSeparator":true,"contextMenuActions":[],"headerTitle":"Filmes com mais Reviews aprovadas","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzE4NDU2MDVfbm93ZmxpeF9yZXZpZXcxNzc2OTYyOTU3ODE4","id":"ZEdGaWJHVjRYekU0TkRVMk1EVmZibTkzWm14cGVGOXlaWFpwWlhjeE56YzJPVFl5T1RVM09ERTQxNzc2OTYyOTYwMTk5","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzE4NDU2MDVfbm93ZmxpeF9yZXZpZXcxNzc2OTYyOTU3ODE4","groupByField":"media","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":5,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"3ort1xup","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"id":"groupBy","value":[{"groupBy":[{"dataSource":"dGFibGV4XzE4NDU2MDVfbm93ZmxpeF9yZXZpZXcxNzc2OTYyOTU3ODE4","groupByField":"media","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":5,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"noDebounce":true,"propLabel":"Group by"}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 17:01:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f9ba9833935cc71071a1f6fa3d03d686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Filmes com mais Reviews aprovadas</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1845605_nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_scope>
+        <sys_update_name>par_visualization_f9ba9833935cc71071a1f6fa3d03d686</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:01:56</sys_updated_on>
+        <type>Horizontal bar</type>
+    </par_visualization>
+</record_update>

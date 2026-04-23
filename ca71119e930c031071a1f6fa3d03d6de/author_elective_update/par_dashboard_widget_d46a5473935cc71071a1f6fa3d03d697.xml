@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1c6a5473935cc71071a1f6fa3d03d68f</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1845605_nowflix_media","columnPreferenceKey":"","fixedQuery":"state=3","followFilters":true,"listTitle":"Top 5 rated movies","columns":"title,average_rate","maxColumns":5,"query":"active=true^type=movie^ORDERBYDESCaverage_rate","groupByField":"","limit":5,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":false,"bare":true,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"listTitle","value":"Top 5 rated movies","noDebounce":true,"propLabel":"Title"}</component_props>
+        <h>12</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 17:00:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d46a5473935cc71071a1f6fa3d03d697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Nowflix" source="x_1845605_nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_scope>
+        <sys_update_name>par_dashboard_widget_d46a5473935cc71071a1f6fa3d03d697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:00:28</sys_updated_on>
+        <visualization/>
+        <w>18</w>
+        <widget_props/>
+        <x>28</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">ca71119e930c031071a1f6fa3d03d6de</application>
+        <file_path/>
+        <instance_id>cadd9e25ffeb3214c80bf8e4fc4fd98d</instance_id>
+        <instance_name>dev367799</instance_name>
+        <name>par_dashboard_widget_d46a5473935cc71071a1f6fa3d03d697</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1c6a5473935cc71071a1f6fa3d03d68f</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1845605_nowflix_media","columnPreferenceKey":"","fixedQuery":"state=3","followFilters":true,"listTitle":"Top 5 rated movies","columns":"title,average_rate","maxColumns":5,"query":"active=true^type=movie^ORDERBYDESCaverage_rate","groupByField":"","limit":5,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":false,"bare":true,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"listTitle","value":"Top 5 rated movies","noDebounce":true,"propLabel":"Title"}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-23 17:00:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d46a5473935cc71071a1f6fa3d03d697</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Nowflix" source="x_1845605_nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_package><sys_policy/><sys_scope display_value="Nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_scope><sys_update_name>par_dashboard_widget_d46a5473935cc71071a1f6fa3d03d697</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-23 17:00:28</sys_updated_on><visualization/><w>18</w><widget_props/><x>28</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-675178069</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e9c7111a934c031071a1f6fa3d03d68a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 17:00:28</sys_created_on>
+        <sys_id>a86a5473935cc71071a1f6fa3d03d69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dbb492e700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:00:28</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>946a5473175cc710c2981d835f110d99</update_guid>
+        <update_guid_history>946a5473175cc710c2981d835f110d99:-675178069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">216a9473935cc71071a1f6fa3d03d686</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 17:00:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>6029a4e46b384d8f80e483583648aab1</sys_id>
+        <sys_metadata>d46a5473935cc71071a1f6fa3d03d697</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Nowflix" source="x_1845605_nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">ca71119e930c031071a1f6fa3d03d6de</sys_scope>
+        <sys_scope_delete display_value="">73145d1442b947f7b8f9b3785cf7ff61</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_d46a5473935cc71071a1f6fa3d03d697</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_d46a5473935cc71071a1f6fa3d03d697">a86a5473935cc71071a1f6fa3d03d69a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:00:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
